@@ -12,7 +12,7 @@ class Quote extends Component{
       const randomElement = Math.floor(Math.random() * text.length);
       document.getElementById('text').innerText= text[randomElement].quote;
       document.getElementById('author').innerText= '-'+ text[randomElement].author;
-      document.getElementById('col1').style.backgroundImage= `url{(${text[randomElement].img})}`;
+      document.getElementById('col1').style.backgroundImage= `url(${text[randomElement].img})`;
       document.documentElement.style.setProperty('--color', text[randomElement].hue);
     })
     .catch(err => console.log(err))
