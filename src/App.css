@@ -1,38 +1,133 @@
-.App {
-  text-align: center;
+/* font for quotes */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+:root{
+    --color: hsl(226, 100%, 63%);
+    overflow-x: hidden;
+
+
+}
+body{
+    background-image: url('images/darkness.png');
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#main-title{
+    color: white;
+    text-align: center;
+    font-family: monospace;
+    font-size: 3em;
+    
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+#quotebox{
+    position: absolute;
+    left: 50%;
+    top: 52%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    height: 80%;
+    width: 70%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.col{
+    width: 50%;
 }
 
-.App-link {
-  color: #61dafb;
+#col1{
+    background-image:url('images/img1.jpg') ;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#socials{
+    position: absolute;
+    bottom: 0;
+    right: 50%;
+    background-color: var(--color);
+    padding: 5px;
+}
+
+#tweet-quote, #facebook-quote{
+    text-decoration: none;
+    color: black;
+}
+
+#socials i{
+    font-size: 2em;
+    margin-right: 10px;
+} 
+
+#socials:hover{
+    cursor: pointer;
+}
+
+#socials .fa-twitter{
+    border-right: 1px solid black ;
+    padding-right: 5px;
+}
+
+
+#col2{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.quotes{
+    color: var(--color);
+    font-size: 5em;
+    position: relative;
+    left: 5%;
+    top: 10%;
+}
+
+#quoteslide{
+    background-color: white;
+    height: 70%;
+}
+
+#quotetext{
+    /* background-color: purple; */
+    width: 75%;
+    margin: auto;
+    position: relative;
+    top: 5%;
+    height: 60%;
+}
+
+#maintext{
+    height: auto;
+}
+
+#maintext #text{
+    font-size: 1.7em;
+    font-family: 'Raleway', sans-serif;
+    color: var(--color);
+}
+
+#maintext #author{
+    position: relative;
+    left: 85%;
+    margin-right: 15px;
+    font-size: 1.2em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--color);
+}
+#new-quote{
+    position: absolute;
+    bottom: -50px;
+    left:150px;
+    padding:10px;
+    font-size: 2em;
+    background-color: var(--color);
+    border: none;
+    border-radius:5px;
+    color: white;
+}
+#new-quote:hover{
+    cursor: pointer;
+    opacity: 0.8;
 }
