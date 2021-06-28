@@ -1,7 +1,8 @@
 # Random Quote Generator
 
 This is part of FreeCodeCamp's front-end certification. The objective was to make a random quote 
-generator.I made one which display's quotes of one of my favourite movies. 
+generator. This project was made in React and fetches quotes from one of my favourite movies and displays
+them. 
 
 Working link- https://codepen.io/amoeba_25/full/rNmBKdR
 
