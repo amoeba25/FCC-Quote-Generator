@@ -2,110 +2,104 @@
     {
     "quote": "Main udna chahta hun Naina. Daudna chahta hun, Girna bhi chahta hun. Bas, rukna nahi chahta.",
     "author": "Bunny",
-    "img":"images/bunny1.jpg",
-    "hue": "#406CFF"
+    "img":"https://amoeba25.github.io/images/quote_proj/bunny1.jpg",
+    "hue": "#85DCBA"
     },
     {
     "quote": "Life mein jitna bhi try karo, kuch na kuch toh chootega hi. Isiye yahin, isi pal ka mazza lete hain. ",
     "author": "Naina",
-    "img":"images/bunny1.jpg",
-    "hue":"#40FF1A"
+    "img":"https://amoeba25.github.io/images/quote_proj/sunset.jpg",
+    "hue":"#34D956"
     },
     {
     "quote": "Tum pehle bhi itni khoobsurat thi ya waqt ne kiya koi haseen sitam?",
     "author": "Bunny",
-    "img":"images/bunny1.jpg",
-    "hue":"#40FF1A"
+    "img":"https://amoeba25.github.io/images/quote_proj/bunny5.jpg",
+    "hue":"#F04B7F"
     },
     {
     "quote": "Pata nahi.Kuch logon ke saath rehne se hi sab theek ho jata hai.",
     "author": "Aditi",
-    "img":"images/bunny1.jpg",
-    "hue":"#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/aditi.jpg",
+    "hue":"#3371F8"
     },
     {
     "quote": "Shaadi is daal chawal for pachaas saal till you die. Arey life mein thoda bahut kheema pav, tangdi kebab, hakka noodles bhi hona chahiye na!",
     "author": "Bunny",
-    "img":"images/bunny1.jpg",
-    "hue": "#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/bunny4.jpg",
+    "hue": "#E8732E"
     },
     {
     "quote": "Tu right nahi hai Naina, bas mujhse bahut alag hai.",
     "author": "Bunny",
-    "img":"images/bunny1.jpg",
-    "hue": "#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/naina5.jpg",
+    "hue": "#34D956"
     },
     {
     "quote": "Yaadein mithai ke dabbe ki tarah hoti hain, ek baar khula toh sirf ek tukda nahi khaa paoge.",
     "author": "Naina",
-    "img":"https://wallpapercave.com/wp/wp6754921.jpg",
-    "hue": "#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/both.jpg",
+    "hue": "#F04B7F"
     },
     {
     "quote": "Khud pe daya karna band karo, aur khud se pyaar karna seekho.",
     "author": "Bunny",
-    "img":"https://wallpapercave.com/wp/wp6754921.jpg",
-    "hue": "#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/naina3.jpg",
+    "hue": "#3371F8"
     },
     {
     "quote": "22 tak padhai, 25 pe naukri, 26 pe chokri, 30 pe bachche, 60 pe retirement , aur phir maut ka intezaar.Dhat! aisi ghisi piti life thodi jeena chahta hoon!",
     "author": "Bunny",
-    "img":"https://wallpapercave.com/wp/wp6754921.jpg",
-    "hue": "#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/bunny3.jpg",
+    "hue": "#E8732E"
     },
     {
     "quote": "Guzarta wakt hain lekin kharch hum hote hain",
     "author": "Bunny",
-    "img":"https://wallpapercave.com/wp/wp6754921.jpg",
-    "hue": "#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/bunny2.jpg",
+    "hue": "#85DCBA"
     },
     {
     "quote": "Kahi pe pahuchne ke liye kahin se nikalna bahut zaruri hota hain. Sahi wakt pe kat lena chahiye nahi toh gile-shiqwe hone lagte hain",
     "author": "Bunny",
-    "img":"https://wallpapercave.com/wp/wp6754921.jpg",
-    "hue": "#64141A"
-    },
-    {
-    "quote": "Kahi pe pahuchne ke liye kahin se nikalna bahut zaruri hota hain. Sahi wakt pe kat lena chahiye nahi toh gile-shiqwe hone lagte hain",
-    "author": "Bunny",
-    "img":"https://wallpapercave.com/wp/wp6754921.jpg",
-    "hue": "#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/naina2.jpg",
+    "hue": "#3371F8"
     },
     {
     "quote": "Abey dhongi! Cheating nahi karta toh ab tak 2nd standard mein hota",
     "author": "Naina",
-    "img":"https://wallpapercave.com/wp/wp6754921.jpg",
-    "hue": "#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/naina5.jpg",
+    "hue": "#34D956"
     },
     {
     "quote": "Haath ka mail hota hain paisa.Isse bacha te nahi, udaate hain",
     "author": "Bunny",
-    "img":"https://wallpapercave.com/wp/wp6754921.jpg",
-    "hue": "#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/bunny5.jpg",
+    "hue": "#34D956"
     },
     {
     "quote": "Ek baad yaad rakhna. Zindagi mein chahe kuch bhi ho jaye, kuch bhi. Main humesha tumhare saath hoon",
     "author": "Bunny's dad",
-    "img":"images/bunny_dad.jpeg",
-    "hue": "#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/bunny_dad.jpg",
+    "hue": "#F04B7F"
     },
     {
     "quote": "Saale apne dollar se khareed raha hain mujhe? Itni sasti nahi hain meri dosti",
     "author": "Avi",
-    "img":"images/avi.jpeg",
-    "hue": "#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/avi.jpg",
+    "hue": "#3371F8"
     },
     {
     "quote": "Maine kaha tha na. Kuch waqt do. Sab theek ho jaayega",
     "author": "Naina",
-    "img":"https://wallpapercave.com/wp/wp6754921.jpg",
-    "hue": "#64141A"
+    "img":"https://amoeba25.github.io/images/quote_proj/naina4.jpg",
+    "hue": "#E8732E"
     },
     {
     "quote": "Yeh pahad chadna tumhare liye sirf trekking hoga. Mere liye nasha hain",
-    "author": "Naina",
-    "img":"https://wallpapercave.com/wp/wp6754921.jpg",
-    "hue": "#64141A"
+    "author": "Bunny",
+    "img":"https://amoeba25.github.io/images/quote_proj/bunny1.jpg",
+    "hue": "#3371F8"
     }
     
 ]

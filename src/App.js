@@ -6,7 +6,7 @@ import React, { Component } from 'react'
 class Quote extends Component{
 
   getData(){
-    fetch('quotes.json')
+    fetch('https://amoeba25.github.io/images/quote_proj/quotes.json')
     .then(item => item.json())
     .then(text => {
       const randomElement = Math.floor(Math.random() * text.length);
